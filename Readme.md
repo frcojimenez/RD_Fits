@@ -1,6 +1,6 @@
 # The project
  
-The GW_Fits project aims at producing accurate ringdown (RD) fits that describe the final state of binary black hole mergers. <br>
+The RD_Fits project aims at producing accurate ringdown (RD) fits that describe the final state of binary black hole mergers. <br>
 The RD emerges as the late trail of radiation usually represented as a sum of damped sinusoids and its modelling is essential to test general relativity (GR) in its most extreme regime. The code is ready to reproduce the results of references [1,2,3,4] 
 
 
